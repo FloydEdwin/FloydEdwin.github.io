@@ -3,6 +3,8 @@
 开始入职鹅厂了，正式开始打工人生涯。新手上路，多多指教。
 ## 2021.07.04
 今天深夜失眠，到了凌晨4点才睡着，这一次算是真正意义上的第一次离家远行，民歌走完之后，突然感受到到一丝孤独。好在和Loredana打了多次电话，内心开始平静下来。
+
+
 You can use the [editor on GitHub](https://github.com/FloydEdwin/FloydEdwin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
