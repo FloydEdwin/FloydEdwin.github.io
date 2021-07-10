@@ -13,37 +13,6 @@
 人生当中成功只是一时的，失败却是主旋律，但是如何面对失败？却把人分成了不同的样子。有的人会被失败击垮，有的人能不断爬起来继续向前。我想真正的成熟并不是追求完美，而是正视自己的缺憾。这才是生活的本质。
 
 ## To Be Continue...
-You can use the [editor on GitHub](https://github.com/FloydEdwin/FloydEdwin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-是否支持中文呢？
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FloydEdwin/FloydEdwin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
