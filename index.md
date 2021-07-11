@@ -11,13 +11,13 @@
 心态要放好，比较是内心焦虑的源泉。突破心理关才是最重要的。
 ## 2021.07.10
 人生当中成功只是一时的，失败却是主旋律，但是如何面对失败？却把人分成了不同的样子。有的人会被失败击垮，有的人能不断爬起来继续向前。我想真正的成熟并不是追求完美，而是正视自己的缺憾。这才是生活的本质。
-## 2021.07.11
-今日，刘老师、阳仔和我三人一起相聚吃火锅，大学毕业三年，感觉大家似乎都没怎么变，依旧很熟。
 
 Success is only temporary in life, failure is the main theme, but how to face failure?
 But it divides people into different kinds.
 Some people will be crushed by failure, and some people will keep getting up and moving forward.
 I think the real maturity is not the pursuit of perfection, but to face their imperfections.
 That's the nature of life.
+## 2021.07.11
+今日，刘老师、阳仔和我三人一起相聚吃火锅，大学毕业三年，感觉大家似乎都没怎么变，依旧很熟。
 
 ## To Be Continue...
