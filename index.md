@@ -19,5 +19,7 @@ I think the real maturity is not the pursuit of perfection, but to face their im
 That's the nature of life.
 ## 2021.07.11
 今日，刘老师、阳仔和我三人一起相聚吃火锅，大学毕业三年，感觉大家似乎都没怎么变，依旧很熟。
+## 2021.07.15
+入职也近2周了，慢慢的和大家一起吃饭，对周围的环境也越来越熟悉了，分配任务了，也开始正式搬砖了。
 
 ## To Be Continue...
