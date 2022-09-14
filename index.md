@@ -1,6 +1,6 @@
 ## 欢迎您访问我的主页，啊啊啊
 ## 2021.07.01
-开始入职鹅厂了，正式开始深漂打工人生涯。新手上路，多多指教。
+开始入职了，正式开始深漂打工人生涯。新手上路，多多指教。
 ## 2021.07.03
 不要妄自菲薄，未来可能会超出你的想象。By Min
 ## 2021.07.04
@@ -18,7 +18,7 @@ Some people will be crushed by failure, and some people will keep getting up and
 I think the real maturity is not the pursuit of perfection, but to face their imperfections.
 That's the nature of life.
 ## 2021.07.11
-今日，刘老师、阳仔和我三人一起相聚吃火锅，大学毕业三年，感觉大家似乎都没怎么变，依旧很熟。
+今日，刘、阳和我三人一起相聚吃火锅，大学毕业三年，感觉大家似乎都没怎么变，依旧很熟。
 ## 2021.07.15
 入职也近2周了，慢慢的和大家一起吃饭，对周围的环境也越来越熟悉了，分配任务了，也开始正式搬砖了。
 ## 2021.07.24
